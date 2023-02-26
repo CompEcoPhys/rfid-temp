@@ -19,6 +19,6 @@ Current Arduino sketch permits the recording of the PIT tag whenever it is near 
 The prototyping RFID reader has pins soldered to the J1 and J2, respectively. For this sketch, the Tx on the RFID reader goes into the Arduino Digital pin 8, and the RX on the RFID reader goes to the Arduino digital pin 9.
 
 
-<h3>4. Power Consumption (coming soon)<h/3>
-     
-     For low power applications, this section will include the general power drain using a power profiling kit. This will be updated once the field design is under works. 
+<h3>4. Power Consumption (coming soon)</h3>
+
+For low power applications, this section will include the general power drain using a power profiling kit. This will be updated once the field design is under works. 
